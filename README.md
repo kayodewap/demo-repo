@@ -1,2 +1,2 @@
 # Tutorial
-Tutorial on git
+Tutorial on git by Gwuen
